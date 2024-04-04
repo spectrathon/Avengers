@@ -1,0 +1,7 @@
+langchain
+fastapi
+langchain_openai
+pymongo
+langchain_community
+uvicorn
+aiofiles
